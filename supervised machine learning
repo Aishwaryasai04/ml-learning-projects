@@ -1,0 +1,10 @@
+Supervised Machine Learning:
+
+A task given
+The supervised learning model has a set of input variables(x) and an output variable(y). An algorithm identifies the mapping function between the input and output variables.
+The relationship is y=f(x)
+
+Regression and classification are types of supervised learning
+
+It follows the process in which labeled observations are done(For example: Tell a system to identify banana as its a banana) and then it is put to training and testing(to ensure that the system is guessing the right items. The process moves forward to prediction model and stats. It gives you the number of incidents that the system has identified the right item
+
