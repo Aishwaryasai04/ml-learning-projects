@@ -1,0 +1,27 @@
+7 Steps of Machine Learning
+
+1. Gathering Data:
+Gathering of pictures of fruits, weather data etc.
+
+2. Preparing that Data:
+Make the data suitable. Like telling the data that is banana to the picture that has to be identified. It simply is assigning the data to an object.
+
+3. Choosing a Model:
+
+It is a way to translate the certain features of data to certain parts of output that is desired
+
+4. Training:
+
+It is a process to train the model.
+For example: What attributes of banana can be trained to make sure the model identifies it.
+
+5. Evaluation:
+ML algorithm undergoes an examination to make sure it is giving desired output
+
+6. Hyperparameter Tuning:
+
+Even if the exam is passed, some tweaks are made. Tuning the model.
+
+7. Prediction:
+
+Deployment the model. Put it to use
