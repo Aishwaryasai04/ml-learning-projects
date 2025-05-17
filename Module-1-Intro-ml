@@ -1,1 +1,11 @@
+Introduction to Machine Learning
 
+What is Machine Learning:
+ML is an application of AI which enables a program or software to learn form the experiences and improve their self at a task without being explicitly programmed.
+
+It is all about feeding the data and enabling the software to identify certain things
+
+For example:
+How would you write a program that can identify the fruit based on its color, shape, size or any other property?
+
+It identifies if the fruit such as banana or apples based on the photo data that is fed into it.
