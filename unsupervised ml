@@ -1,0 +1,17 @@
+Unsupervised Machine Learning:
+
+Those algorithms that are not clear or there is not supervising task.
+It doesnt have a label to go forward.
+
+-->Clustering: This means bundling the input variables with the same characteristics together.
+example: grouping users based on search history
+
+-->Association:
+Here, we discover the rules that govern meaningful associations among the data set. 
+example: People who watch X will also watch Y
+People who bought candy also bought hot items.
+
+First use supervised learning to find the label and use unsupervised learning to use the label
+
+It is used to build the applications.
+ 
