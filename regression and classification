@@ -1,0 +1,13 @@
+Regression:
+Regression is a method of modeling a target value based on independent predictors.
+
+It is a statistical tool which is used to find out the relationship between the outcome variable aslo known as dependent variable, and one or more variable often called as independent variable.
+
+example: Predicting the future price of a house
+
+Classification:
+
+Classification is the process of taking various labels to train the algorithm to identify items within a specific category
+
+Example: Handwritten digit identification
+ 
