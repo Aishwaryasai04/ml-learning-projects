@@ -1,0 +1,11 @@
+Recommender Systems:
+
+It is everywhere now. Google recommends something. Same with Netflix, Youtube.
+
+What do they do:
+They are various ml algorithms such as supervised learning, classification, hybrid approaches, popular/commonly viewed movies, association rules, nearest collaborative filtering.
+
+Collaborative Filtering:
+Two users A and B having different rating and movies. We will search for common views of those two users. Same rating or any parameters would be treated as same users.
+
+It is unsupervised learning solving supervised problem.
